@@ -88,9 +88,9 @@
 ### How to Find Me
 
 <a href="https://github.com/Dondrose">![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-![LinkedIn Profle](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Leetcode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![Icon Finder Profile](https://img.shields.io/badge/Iconfinder-1A1B1F?style=for-the-badge&logo=Iconfinder&logoColor=white)
+<a target="_blank" href="https://www.linkedin.com/in/donalddrose/">![LinkedIn Profle](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target="_blank" href="https://leetcode.com/u/dondrose/">![Leetcode Profile](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
+<a target="_blank" href="https://www.iconfinder.com/don_roselution">![Icon Finder Profile](https://img.shields.io/badge/Iconfinder-1A1B1F?style=for-the-badge&logo=Iconfinder&logoColor=white)</a>
 
 <!--
 **Dondrose/dondrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
